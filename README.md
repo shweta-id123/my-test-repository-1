@@ -1,3 +1,3 @@
 # my-test-repository
 
-test repository for branching
+test repository for branching.
